@@ -1,0 +1,2 @@
+#[Do Now] Facebook Wall Project
+jQuery is just one example of a library. There are many other libraries and frameworks used today. Research 1 library and one framework. Be prepared to talked about each to the class.

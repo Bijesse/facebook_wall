@@ -9,7 +9,7 @@ This project involves creating a simple Facebook-like wall. The objective of thi
 ##Before Class
 
 ### Prerequisites
-Students should only start this project after they have completed the other lessons in the unit.
+Students should only start this project after they have completed the other lessons and projectsin the unit.
 
 ### Starter code
 
@@ -27,9 +27,9 @@ See [here]() for code (private).
 
 ###Do Now
 
-1. Attendance: Teacher takes student attendance at www.kinvolved.com
+1. Attendance
 2. Return graded do-now and exit ticket from previous class
-3. Do-now quiz
+3. [Do-now](do_now.md) activity
 
 ###Opening
 
@@ -86,6 +86,10 @@ Select students to present their work to the class.
 Teachers should keep track of student success while they are presenting to the class.
 
 ###How to Submit
-The teacher must ask students to share the link to their project on your school's 
+This project must be pushed back up to your repo on GitHub. Then you will share your link with the instructor
 
-Also remind students to push this code back up to their GitHub repo. 
+To push to GitHub run the following commands in your terminal: 
+`git status`  
+`git add .`  
+`git commit -m "example comment"`  
+`git push origin master`
