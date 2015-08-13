@@ -21,7 +21,7 @@ See [here]() for code (private).
 
 ### Assessment
 
-1. Write do-now based off of [assessments from previous lesson](../../../10-jquery/lessons/1-jquery/assessments/).
+1. Students will be assessed based on their performance in the project.
 
 ##During Class
 
