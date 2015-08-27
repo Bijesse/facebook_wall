@@ -1,2 +1,9 @@
 #[Do Now] Facebook Wall Project
-jQuery is just one example of a library. There are many other libraries and frameworks used today. Research 1 library and one framework. Be prepared to talked about each to the class.
+
+1. Open a new JS Bin file
+2. Using jQuery, create a page that counts to ten as a user clicks a button. 
+3. When the button is clicked ten times the user should be alerted with a message saying "Stop clicking me!"
+
+
+To see an example of this program see it here:
+http://output.jsbin.com/saweji/latest/quiet
